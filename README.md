@@ -10,7 +10,7 @@ In order to implement this program we need to have following things installed in
  5. Numpy
  6. pyautogui
  
-### To install opencv do :
+### To install opencv:
 ```
 python -m pip install -U pip opencv -python
 ```
