@@ -53,4 +53,4 @@ Green - Left-Click
 Yellow - Rght-click
  
 ### To see the demo click https://www.youtube.com/watch?v=35sj52cKVDg
-### To see this project's publication http://ijcsmc.com/docs/papers/May2020/V9I5202006.pdf
+### To read this project's publication  http://ijcsmc.com/docs/papers/May2020/V9I5202006.pdf
